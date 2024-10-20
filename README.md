@@ -20,4 +20,11 @@ Power BI To visualize and analyze the Supply Chain data, Power BI was used to cr
 Data modeling using relationships between tables and calculated columns Measures and DAX formulas to perform calculations on the data Visualizations such as tables, charts, and maps to display the data Slicers and filters to enable dynamic filtering of the data Drill-through functionality to navigate between different levels of detail in the data.
 
 Here are the images showcasing the dashboards I have created.
-Excel:-![Screenshot (6)](https://github.com/user-attachments/assets/fdf5a509-31b9-4d6d-8f9c-8e9cd80650ba)
+Excel Dashboard:-
+![Screenshot (8)](https://github.com/user-attachments/assets/4d8f520b-d6cd-424f-80b7-3a7ad5f15fd2)
+
+PowerBI Dashboard:-
+![Screenshot (9)](https://github.com/user-attachments/assets/b15a06e5-99dd-4fd7-a330-d2ece21a70a7)
+
+Tableau Dashboard:-
+![Screenshot (6)](https://github.com/user-attachments/assets/fdf5a509-31b9-4d6d-8f9c-8e9cd80650ba)
