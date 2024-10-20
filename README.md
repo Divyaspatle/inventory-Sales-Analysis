@@ -2,14 +2,14 @@ Conducted an analysis on Inventory Sales(Supply Chain) data from the perspective
 
 The objectives of the project were:
 
-Finding Total No of Inventory.
-Finding Gross Profit .
-Finding Total Sales by Region, Total Sales by Store.
-Finding Yearly Sales Growth.
-Finding Monthly Sales Trend.
-Finding Total Profits by Region.
-Finding stocks.
-Finding YTD,QTD.
+1.Finding Total No of Inventory.
+2.Finding Gross Profit .
+3.Finding Total Sales by Region, Total Sales by Store.
+4.Finding Yearly Sales Growth.
+5.Finding Monthly Sales Trend.
+6.Finding Total Profits by Region.
+7.Finding stocks.
+8.Finding YTD,QTD.
 The project showcases the use of Excel, SQL, and dashboard tools such as Power BI for data analysis and visualization, and provides a valuable resource for anyone interested in learning more about these tools and techniques.
 
 SQL To extract relevant data from the Supply Chain datasets, SQL queries were executed using the following keywords:
