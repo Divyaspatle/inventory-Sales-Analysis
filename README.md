@@ -9,6 +9,7 @@ Finding Yearly Sales Growth.
 Finding Monthly Sales Trend.
 Finding Total Profits by Region.
 Finding stocks.
+Finding YTD,QTD.
 The project showcases the use of Excel, SQL, and dashboard tools such as Power BI for data analysis and visualization, and provides a valuable resource for anyone interested in learning more about these tools and techniques.
 
 SQL To extract relevant data from the Supply Chain datasets, SQL queries were executed using the following keywords:
